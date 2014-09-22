@@ -1,0 +1,36 @@
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\bin\Debug\FuzzySetOperations.exe
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\bin\Debug\FuzzySetOperations.pdb
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.exe
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.pdb
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\FuzzySets.Form1.resources
+c:\documents and settings\admin\Мои документы\Visual Studio 2005\Projects\FuzzySetOperations\FuzzySetOperations\obj\x86\Debug\FuzzySets.Properties.Resources.resources
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.exe
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.pdb
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\bin\Debug\FuzzySetOperations.exe
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\bin\Debug\FuzzySetOperations.pdb
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySets.Form1.resources
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySets.Properties.Resources.resources
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\bin\Debug\FuzzySetOperations.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\bin\Debug\FuzzySetOperations.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySets.Form1.resources
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySets.Properties.Resources.resources
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.exe
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySetOperations.pdb
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\bin\Debug\FuzzySetOperations.exe
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\bin\Debug\FuzzySetOperations.pdb
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySets.Form1.resources
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\FuzzySets.Properties.Resources.resources
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Share\Magistracy\Нечеткие методы\FuzzySetOperations\project\FuzzySetOperations\obj\x86\Debug\GenerateResource.write.1.tlog

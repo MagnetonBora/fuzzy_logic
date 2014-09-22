@@ -1,0 +1,29 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\bin\Debug\FSP.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\bin\Debug\FSP.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\FSP.MainForm.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\FSP.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\FSP.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\FSP\FSP\obj\x86\Debug\FSP.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\FSP.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\FSP.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\bin\Debug\FSP.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\bin\Debug\FSP.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\FSP.MainForm.resources
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\FSP.Properties.Resources.resources
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\FSP\FSP\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\FSP.exe
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\FSP.pdb
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\bin\Debug\FSP.exe
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\bin\Debug\FSP.pdb
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\FSP.MainForm.resources
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\FSP.Properties.Resources.resources
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Share\Magistracy\Нечеткие методы\FSP\project\FSP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Мои документы\Нечеткие методы\Labs\FSP\project\FSP\obj\x86\Debug\FSP.exe
+D:\Мои документы\Нечеткие методы\Labs\FSP\project\FSP\obj\x86\Debug\FSP.pdb

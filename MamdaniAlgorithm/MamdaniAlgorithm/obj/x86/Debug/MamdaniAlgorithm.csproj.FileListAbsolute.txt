@@ -1,0 +1,9 @@
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\bin\Debug\MamdaniAlgorithm.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\bin\Debug\MamdaniAlgorithm.pdb
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\MamdaniAlgorithm.Form1.resources
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\MamdaniAlgorithm.Properties.Resources.resources
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\MamdaniAlgorithm.exe
+C:\Users\Роман\Documents\Visual Studio 2010\Projects\MamdaniAlgorithm\MamdaniAlgorithm\obj\x86\Debug\MamdaniAlgorithm.pdb
